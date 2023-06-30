@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Contact-Management-System-In-PYTHON-master/Contact-Management-System-In-PYTHON-master/.idea/Contact-Management-System-In-PYTHON-master.iml" filepath="$USER_HOME$/Desktop/Contact-Management-System-In-PYTHON-master/Contact-Management-System-In-PYTHON-master/.idea/Contact-Management-System-In-PYTHON-master.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Student-Management-System-PYTHON-GUI-tkinter.--master/Student-Management-System-PYTHON-GUI-tkinter.--master/.idea/Student-Management-System-PYTHON-GUI-tkinter.--master.iml" filepath="$USER_HOME$/Desktop/Student-Management-System-PYTHON-GUI-tkinter.--master/Student-Management-System-PYTHON-GUI-tkinter.--master/.idea/Student-Management-System-PYTHON-GUI-tkinter.--master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/december2019.iml" filepath="$PROJECT_DIR$/.idea/december2019.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../django_project/.idea/django_project.iml" filepath="$PROJECT_DIR$/../django_project/.idea/django_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flappy_bird/.idea/flappy_bird.iml" filepath="$PROJECT_DIR$/../../../flappy_bird/.idea/flappy_bird.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" filepath="$PROJECT_DIR$/../tutorial/.idea/tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../untitled/.idea/untitled.iml" filepath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
